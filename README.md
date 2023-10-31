@@ -10,8 +10,6 @@ Currently working as a developer / data scientist at an e-commerce startup, spec
 
 Academically trained in genomics/bioinformatics/data science
 
-Interested in computational biology including topics like medical record processing, EHR data, immunology data, gene sequencing data, single cell genomics, to list a few. 
-
 Always interested in new and fun opportunities! 
 
 ---
