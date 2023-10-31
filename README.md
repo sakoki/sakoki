@@ -8,7 +8,7 @@
 
 Currently working as a developer / data scientist at an e-commerce startup, specializing in NLP. 
 
-Academically trained in genomics/bioinformatics/data science
+Academically trained in Genomics / Bioinformatics / Data science
 
 Always interested in new and fun opportunities! 
 
